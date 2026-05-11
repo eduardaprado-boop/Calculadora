@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+'''
+exemplo, fazendo um merge
+'''
 
 # Importações
 import datetime
@@ -14,7 +16,7 @@ def boas_vindas():
     print("=" * 50)
     print()
 
-    # 1. Olá Mundo básico
+    # 1. Olá Mundo básico''
     print("1️⃣ Olá, Mundo!")
     print("   Bem-vindo ao GitHub!\n")
     
