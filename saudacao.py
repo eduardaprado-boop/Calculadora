@@ -7,3 +7,6 @@ def soma (n1 , n2):
 
 
 print (saudacao("mundo"))
+
+def depedida (nome):
+    return f"até mais, {nome}!"
